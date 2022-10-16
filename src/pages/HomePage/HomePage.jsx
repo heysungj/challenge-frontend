@@ -68,7 +68,7 @@ export default function HomePage() {
       {!disableSweetness ? null : (
         <div className="subContainer">
           <h4>
-            Hello {data.name}, you have chose preferred sweetness of{" "}
+            Hello {data.name}, you have chosen preferred sweetness of{" "}
             {data.level}, please choose pick up date
           </h4>
           <label>Date </label>
