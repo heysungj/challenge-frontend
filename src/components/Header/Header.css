@@ -6,10 +6,13 @@
     align-items: center;
 }
 .logo{
+    margin: 10px;
     width: 150px;
     height: 150px;
+    border-radius: 50%;
 }
 
 h2{
-    color: lightgray;
+    color: gray;
+    padding: 5px;
 }

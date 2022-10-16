@@ -4,17 +4,23 @@
     flex-wrap: wrap;
     align-items: center;
 }
-
+h4{
+    color: rgb(92, 91, 91);
+}
 label{
     margin: 5px;
+    color: rgb(92, 91, 91);
 }
 button{
-    border:none;
+    border: 2px solid white;
     margin: 5px;
     width: 100px;
     border-radius: 5px;
+    color: rgb(92, 91, 91);
 }
-
+select{
+    width: 70px;
+}
 .subContainer{
     padding: 10px;
     margin: 10px;
