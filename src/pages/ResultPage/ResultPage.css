@@ -4,7 +4,13 @@
     flex-wrap: wrap;
     align-items: center;
 }
+h3{
+    color: rgb(92, 91, 91);
+    margin: 5px;
+}
 .dessert{
     border-radius: 5px;
+    border: 5px solid white;
     width: 70vw;
+    
 }
