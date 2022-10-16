@@ -1,0 +1,10 @@
+.resultContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.dessert{
+    border-radius: 5px;
+    width: 70vw;
+}

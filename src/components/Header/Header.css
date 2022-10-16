@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+}
+
+h2{
+    color: lightgray;
+}
